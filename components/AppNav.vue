@@ -3,7 +3,7 @@
     <ul>
       <li>
         <nuxt-link exact to="/">
-          <app-icon></app-icon>adiprayitno.com
+          <app-icon></app-icon>Adi Prayitno
         </nuxt-link>
       </li>
       <li>
